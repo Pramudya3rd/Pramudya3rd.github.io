@@ -79,6 +79,12 @@ aside {
     padding-top: 50px;
 }
 
+figure img {
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+
 footer {
     text-align: center;
     padding: 50px 0;
