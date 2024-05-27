@@ -42,6 +42,10 @@ nav a:hover {
     background-color: #fff;
 }
 
+nav a:active, nav a:focus {
+    background-color: #ccc;
+}
+
 main {
     text-align: center;
 }
